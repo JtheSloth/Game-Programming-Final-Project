@@ -1,4 +1,12 @@
-
+/**
+* Author: Jemima Datus
+* Assignment: Dungeon Explorer
+* Date due: 12/6/2024, 2:00pm
+* I pledge that I have completed this assignment without
+* collaborating with anyone else, in conformance with the
+* NYU School of Engineering Policies and Procedures on
+* Academic Misconduct.
+**/
 #define GL_SILENCE_DEPRECATION
 #define GL_GLEXT_PROTOTYPES 1
 #define FIXED_TIMESTEP 0.0166666f
